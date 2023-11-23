@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @olubadero
+- 👋 Hi, I’m Olubukola Oluremi Badero @olubadero
 - 👀 I’m interested in Data Analysis and Business Intelligence
 - 🌱 I have knowledge of Python, SQL, Power BI, Tableau, Microsoft Excel etc.
 - 💞️ I’m looking to collaborate on Data Analytics project
